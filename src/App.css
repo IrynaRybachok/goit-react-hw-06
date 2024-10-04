@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-.title{
+.title {
   padding-bottom: 40px;
   font-family: Inter;
   font-size: 40px;
@@ -18,14 +18,14 @@
   gap: 5px;
 }
 
-.containerPhonebook{
+.containerPhonebook {
   background-color: rgba(255, 255, 255, 0.04);
   border-radius: 20px;
   border: 2px solid rgba(10, 13, 23, 0.05);
-  padding: 40px;
+  padding: 40px 140px;
 }
 
-.infoText{
+.infoText {
   color: white;
   font-family: Inter;
   font-size: 30px;
